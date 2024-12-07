@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 18px;
+  }
+  
+  button {
+    background-color: #0a66c2;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  button:hover {
+    background-color: #08459d;
+  }
+  
+  pre {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 4px;
+    max-height: 300px;
+    overflow-y: auto;
+    font-size: 14px;
+  }
+  
